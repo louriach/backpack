@@ -30,7 +30,7 @@ import iosScreenshot from '../../../../../backpack-react-native/packages/react-n
 import androidScreenshot from '../../../../../backpack-react-native/packages/react-native-bpk-component-map/screenshots/android/default.png';
 import nativeMapReadme from '../../../../../backpack-react-native/packages/react-native-bpk-component-map/README.md';
 
-import STYLES from './MapPage.scss';
+import STYLES from './MapPage.css';
 
 import DocsPageBuilder from '../../components/DocsPageBuilder';
 import DocsPageWrapper from '../../components/DocsPageWrapper';
